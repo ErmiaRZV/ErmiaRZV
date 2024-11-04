@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ermia Razavi</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+wellcome+To my Github!; &nbsp;&nbsp; Ermia Razavi+Front+end+developer !; cheak+my+Repositories!; Hope+you+enjoy!&font=Fira%20Code&center=true&width=400&height=65&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
-</p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ermiarzv&label=Profile%20views&color=0e75b6&style=flat" alt="ermiarzv" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ermiarzv" alt="ermiarzv" /></a> </p>
