@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ermia Razavi</h1>
-<h3 align="center">A passionate frontend developer from Iran</h3>
+<h3 align="center">A Frontend developer from Iran</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ermiarzv&label=Profile%20views&color=0e75b6&style=flat" alt="ermiarzv" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ErmiaRZV](https://github.com/ErmiaRZV)
 
-- 💬 Ask me about **Html5, css3**
+- 💬 Ask me about **Html, css , Tailwind , bootstrap , javaScript**
 
 - 📫 How to reach me **ermiarazavi.dev@gmail.com**
 
